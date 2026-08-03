@@ -1,16 +1,13 @@
-## Hi there 👋
+# Why Coblasteus? (as in the name)
+The namesake was made after hearing about the cytoplasm, which is the clear gel the cell membranes are in. I was then like “hmmm… cobalt…” and then I combined the two together. I was planning to make the name Cobaltplasm, but there’s already some artist on Pinterest with the same name, so I decided to combine "Cobalt" and "plasm" together, making "Coblasm". I then added some fluff; therefore, turning it into the final result: Coblasteus.
 
-<!--
-**Coblasteus/Coblasteus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Who are you?
+I'm Coblasteus, of course! But seriously, if you find me and my website from somewhere or someone, just know I do a lot of things, such as:
 
-Here are some ideas to get you started:
+- Music
+- Gaming
+- Game Dev
+- And more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What happened to your first stuff?
+Well, I joined GitHub to help with Universal Dive development, but it seems that recently, the original profile hosting those repos are gone now. So, uhh, yeah. The first issue I ever made on GitHub is probably lost forever sadly. :(
