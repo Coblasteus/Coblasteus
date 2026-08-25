@@ -5,9 +5,12 @@ The namesake was made after hearing about the cytoplasm, which is the clear gel 
 I'm Coblasteus, of course! But seriously, if you find me and my website from somewhere or someone, just know I do a lot of things, such as:
 
 - Music
-- Gaming
-- Game Dev
+- Animations
+- Memes/Editing
 - And more
+
+# What is this GitHub about?
+It's where I host stuff I make. A lot of it is private stuff, but maybe I will release some more stuff soon.
 
 # What happened to your first stuff?
 Well, I joined GitHub to help with Universal Dive development, but it seems that recently, the original profile hosting those repos are gone now. So, uhh, yeah. The first issue I ever made on GitHub is probably lost forever sadly. :(
