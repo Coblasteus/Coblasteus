@@ -10,7 +10,7 @@ I'm Coblasteus, of course! But seriously, if you find me and my website from som
 - And more
 
 # What is this GitHub about?
-It's where I host stuff I make. A lot of it is private stuff, but maybe I will release some more stuff soon.
+It's where I host stuff I make. A lot of it are private repositories, but maybe I will release some more stuff soon.
 
 # What happened to your first stuff?
 Well, I joined GitHub to help with Universal Dive development, but it seems that recently, the original profile hosting those repos are gone now. So, uhh, yeah. The first issue I ever made on GitHub is probably lost forever sadly. :(
